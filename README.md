@@ -33,7 +33,7 @@ O objetivo foi praticar a criação de uma página jornalística com estrutura s
 
 ## 📷 Prévia do projeto
 
-![Prévia do Projeto]([./img/captura.png](https://raw.githubusercontent.com/eversondev22/Gazeta-esportiva/4a88e33e44ebf7d6d42aa1ee317c4199121c61ea/img/captura.png.png))
+![Prévia do Projeto](https://raw.githubusercontent.com/eversondev22/Gazeta-esportiva/4a88e33e44ebf7d6d42aa1ee317c4199121c61ea/img/captura.png.png)
 
 ---
 
