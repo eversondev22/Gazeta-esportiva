@@ -50,8 +50,8 @@ O foco foi consolidar a base em HTML e CSS, desenvolvendo boas práticas de estr
 📍 Coordenador de Logística em transição para a área de Tecnologia  
 📊 Estudante de Análise de Dados | Aprendendo HTML, CSS, Python e Java  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/everson-araujo-da-silva)  
-💼 [GitHub](https://github.com/seu-usuario)
+🔗 [LinkedIn](https://www.linkedin.com/in/everson-araujo-09b289264/)
+💼 [GitHub](https://github.com/eversondev22)
 
 ---
 
