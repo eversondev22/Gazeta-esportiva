@@ -33,7 +33,7 @@ O objetivo foi praticar a criação de uma página jornalística com estrutura s
 
 ## 📷 Prévia do projeto
 
-![Prévia do Projeto](./)
+![Prévia do Projeto](./img/captura.png)
 
 ---
 
