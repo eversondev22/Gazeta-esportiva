@@ -1,0 +1,190 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Body */
+body {
+    background-color: #f2f2f2;
+    color: #111;
+    padding-bottom: 40px;
+}
+
+/* Header estilo ESPN */
+header {
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    border-bottom: 4px solid #e50914; /* vermelho ESPN */
+}
+
+/* Títulos */
+h2 {
+    color: #e50914;
+    margin: 20px 0;
+    text-transform: uppercase;
+}
+
+h3 {
+    margin: 10px 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* Seção esportes */
+#esportes {
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+/* Layout dos artigos em grid */
+#esportes article {
+    background: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-left: 5px solid #e50914;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.2);
+}
+
+/* Imagens */
+figure img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+/* Legendas */
+figcaption {
+    font-size: 14px;
+    margin-top: 5px;
+    font-style: italic;
+    color: #555;
+}
+
+/* Links */
+a {
+    color: #e50914;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Aside */
+aside {
+    background-color: #000;
+    color: #fff;
+    padding: 15px;
+    border-left: 5px solid #e50914;
+    border-radius: 5px;
+}
+
+aside h4 {
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+aside ul {
+    list-style: none;
+}
+
+aside ul li {
+    margin-bottom: 8px;
+}
+
+aside a {
+    color: #fff;
+}
+
+aside a:hover {
+    color: #e50914;
+}
+
+/* Responsivo */
+@media (max-width: 768px) {
+    #esportes {
+        width: 100%;
+    }
+
+    figure img {
+        max-height: 250px;
+        object-fit: cover;
+    }
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+}
+article p {
+    margin: 10px 0;
+    line-height: 1.6;
+}
+
+h2 {
+    color: #d40000;
+    margin-bottom: 20px;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+h2 {
+    color: #d40000;
+    margin-bottom: 20px;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+header {
+    background: #000;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    border-bottom: 4px solid red;
+    position: sticky; /* deixa fixo ao rolar a página */
+    top: 0;
+    z-index: 10;
+}
+.menu {
+    background-color: #111;
+    padding: 15px 0;
+    border-bottom: 4px solid red;
+}
+
+.menu ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin: 0;
+    padding: 0;
+}
+
+.menu a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.menu a:hover {
+    color: red;
+    transform: scale(1.1);
+}
